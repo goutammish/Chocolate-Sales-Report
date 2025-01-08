@@ -70,3 +70,7 @@ The "Awesome Chocolates" Power BI Dashboard provides actionable insights into th
 - Focus on regions/products driving profitability.
 
 This dashboard serves as a vital decision-making tool for strategic planning and performance optimization.
+
+Dashboard:
+
+chocolate Sales dashboard.png
